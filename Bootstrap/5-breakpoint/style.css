@@ -1,0 +1,9 @@
+.container{
+    border: 2px solid black;
+}
+.row{
+    border: 2px solid rgb(107, 18, 18);
+}
+.col-12 ,.col-sm-6 ,.col-md-3 ,.col-lg-6{
+         border:  2px solid purple;
+}
