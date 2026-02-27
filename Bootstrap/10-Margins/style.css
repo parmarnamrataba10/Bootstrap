@@ -1,0 +1,11 @@
+.container{
+    border: 2px solid black;
+}
+.row{
+    border: 1px solid burlywood;
+}
+.col-12{
+    border: 1px solid goldenrod;
+    height: 100px;
+    width: 400px;
+}
