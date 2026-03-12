@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+}
+
+.container {
+  border: 4px dashed grey;
+}
+
+.row {
+  border: 2px dotted ghostwhite;
+}
+
+.col-md-4 {
+  border: 2px solid purple;
+}
+img{
+    padding: 1rem;
+      
+}
